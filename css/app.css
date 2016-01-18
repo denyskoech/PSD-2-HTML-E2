@@ -1,0 +1,13 @@
+#container {
+    width: 100%;
+    height: 3000px;
+    background-color: 
+}
+
+.landing {
+    width: 90%;
+    height: auto;
+    background: url(../img/assets/h_img.jpg) no-repeat; 
+    color: white;
+    text-align: center;
+}
