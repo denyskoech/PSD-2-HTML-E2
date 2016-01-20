@@ -104,7 +104,8 @@
     width: 25%;
     height: 300px;
     float: left;
-    padding: 1%;
+    padding: 1%; 
+    
 }
 
 .contact {
@@ -113,8 +114,8 @@
     background: url(../img/assets/c_image.jpg) no-repeat;
     background-position: center;
     color: #f4f3f3;
-    text-align: center;
     background-color: transparent;
+    text-align: center;
 }
 
 .icons {
