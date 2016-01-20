@@ -59,12 +59,14 @@
     width: 25%;
     height: 300px;
     float: left;
+    padding: 1%;
 }
 
 .portimg1 {
-    width: 100%;
+    width: 25%;
     height: 300px;
-    float: left;    
+    float: left;
+    padding: 1%;
 }
 
 .contact {
