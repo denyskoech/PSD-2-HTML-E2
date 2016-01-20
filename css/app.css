@@ -75,14 +75,16 @@
     margin-top: 2px;
     margin-bottom: 5px;
     width: 100%;
-    height: 300px;
+    height: 500px;
     background: url(../img/assets/c_image.jpg) no-repeat;
+    color: white;
 }
 
 .icons {
     width: 100%;
     height: 100px;
     align-content: center;
+    align-items: center;
 }
 
 .footer {
