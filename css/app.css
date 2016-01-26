@@ -145,12 +145,8 @@
     padding-bottom: 25px;
 }
 
-.contactin {
-    background: none;
-}
-
 #input1 {
-    opacity: 0;
+    opacity: 0.1;
 }
 
 .icons {
