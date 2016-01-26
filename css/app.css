@@ -153,26 +153,24 @@
 
 #input1 input {
     opacity: 0.5;
-
-    border-color: white;
-    border-bottom-style: inset;
-    border-bottom-width: thin;
+    border: 10px solid white;
 }
 
 #input2 input {
     opacity: 0.5;
-    border: 2px solid white;
-    border-color: white;
-    border-bottom-style: inset;
-    border-bottom-width: thin;
+    border: 10px solid white;
+}
+
+#input3 {
+    height: 290px;
 }
 
 #input3 input {
     opacity: 0.5;
-    border: 2px solid white;
-    border-bottom-style: inset;
-    border-bottom-width: thin;
-    height: 200px;
+    border: 10px solid white;
+    color: white;
+    height: 290px;
+    padding: 5px;
 }
 
 .icons {
