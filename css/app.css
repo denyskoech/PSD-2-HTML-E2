@@ -147,6 +147,27 @@
 
 #input1 {
     opacity: 0.1;
+    border-color: white;
+    border-bottom-style: inset;
+    border-bottom-width: thin;
+}
+
+#input2 {
+    opacity: 0.1;
+    border-color: white;
+    border-bottom-style: inset;
+    border-bottom-width: thin;
+}
+
+#input3 {
+/*    opacity: 0.1;*/
+    border: 4px solid green;
+    margin-left: 50px;
+    margin-right: 30px;
+
+    border-bottom-style: inset;
+    border-bottom-width: thin;
+    height: 200px;
 }
 
 .icons {
